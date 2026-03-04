@@ -9,8 +9,6 @@ Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor pro
 Con mucho agradecimiento por el conocimiento impartido a los tutores de Alura Latam: 
 
 - Alvaro Camacho https://github.com/ahcamachod
-- Alejandro Gamarra https://github.com/ElProfeAlejo
-
 
 ## 👤 Autor
 
